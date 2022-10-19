@@ -11,7 +11,7 @@
 
 ***
 
-✨ 此项目已在原 repo 中提供 [社区维护的官方中文版本](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)，由于此前已有其他用户协助翻译并提交，且本人对后端开发与 DevOps 并不是特别了解，所以这里的翻译暂时不会被合并至原项目中。您可以前往 [原项目](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese) 查看已翻译的线路图，也可在原项目上提供或改进翻译。此 repo 后续应该还是会按照自己的习惯提供翻译
+⚠ 由于 [原项目](https://github.com/kamranahmedse/developer-roadmap) 的代码仓库已与原作者的另一个项目 [roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) 的项目代码合并，项目结构已与早期版本不同。且新项目的许可文件不再沿用之前的许可协议，因此本项目后续将不会再更新维护。如有需要，可访问 [roadmap.sh](https://roadmap.sh) 查看最新版本，并体验更丰富的功能（注：此文档最后一次更新时，该网站还未提供多语言翻译）。
 
 ***
 
